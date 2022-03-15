@@ -1,6 +1,6 @@
-# Project Name
+# HELLO MICROVERSE
 
-> HELLO MICROVERSE.
+>Microverse day 2 first project.
 
 
 ## Built With
@@ -12,20 +12,8 @@
 
 ## Getting Started
 
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+git clone https://github.com/Ghilain/Hello-Microverse.git
+cd Hello-Microverse
 
 ## Authors
 
